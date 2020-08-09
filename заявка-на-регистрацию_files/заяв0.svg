@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="138mm" xmlns="http://www.w3.org/2000/svg" height="128mm" version="1.1" viewBox="0 0 523 485" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <path d="M157,52 L71,52 A8,8 0 0,0 63,60 L63,198" fill="none" stroke="#800000" stroke-width="1"/>
+   <polygon fill="#ffffff" points="63,198 57,184 70,184" stroke="#800000" stroke-width="1" stroke-linejoin="miter"/>
+   <path d="M322,52 L426,52 A8,8 0 0,1 434,60 L434,196" fill="none" stroke="#800000" stroke-width="1"/>
+   <polygon fill="#ffffff" points="434,196 428,182 441,182" stroke="#800000" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="253,88 253,201" stroke="#800000" stroke-width="1"/>
+   <polygon fill="#ffffff" points="253,201 246,187 260,187" stroke="#800000" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="463,262 463,331" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="459,317 463,331 467,317" stroke="#800000" stroke-width="1"/>
+   <path d="M197,238 L187,238 A8,8 0 0,0 179,246 L179,422" fill="none" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="175,408 179,422 183,408" stroke="#800000" stroke-width="1"/>
+   <path d="M308,238 L329,238 A8,8 0 0,1 337,246 L337,415" fill="none" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="333,402 337,415 341,402" stroke="#800000" stroke-width="1"/>
+   <a target="_parent" xlink:href="заяв19.htm#1">
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffcf9f"/>
+            <stop offset="95%" stop-color="#ffffff"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="239" cy="52" rx="81" ry="36" fill="url(#Gradient1)" stroke="#800000" stroke-width="2"/>
+      <text x="239" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Заявка на регистрацию</text>
+   </a>
+   <a target="_parent" xlink:href="заяв20.htm#1">
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffcf9f"/>
+            <stop offset="95%" stop-color="#ffffff"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="63" cy="235" rx="48" ry="36" fill="url(#Gradient2)" stroke="#800000" stroke-width="2"/>
+      <text x="63" y="238" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Клиент f2c</text>
+   </a>
+   <a target="_parent" xlink:href="заяв17.htm#1">
+      <defs>
+         <linearGradient id="Gradient3" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffcf9f"/>
+            <stop offset="95%" stop-color="#ffffff"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="434" cy="233" rx="48" ry="36" fill="url(#Gradient3)" stroke="#800000" stroke-width="2"/>
+      <text x="434" y="236" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">АСУ</text>
+   </a>
+   <a target="_parent" xlink:href="заяв4.htm#1">
+      <image x="448" y="331" width="30" height="32" xlink:href="заяв0_svg_Files/svg_bitmap1.png"/>
+      <text x="463" y="377" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">1.1 Регистрация</text>
+   </a>
+   <a target="_parent" xlink:href="заяв6.htm#1">
+      <image x="164" y="422" width="30" height="32" xlink:href="заяв0_svg_Files/svg_bitmap2.png"/>
+      <text x="179" y="468" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">1.2 Открытие IBAN</text>
+   </a>
+   <a target="_parent" xlink:href="заяв22.htm#1">
+      <defs>
+         <linearGradient id="Gradient4" x1="0%" x2="0%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffcf9f"/>
+            <stop offset="95%" stop-color="#ffffff"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="252" cy="238" rx="54" ry="36" fill="url(#Gradient4)" stroke="#800000" stroke-width="2"/>
+      <text x="253" y="241" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Сотрудники f2c</text>
+   </a>
+   <a target="_parent" xlink:href="заяв5.htm#1">
+      <image x="322" y="415" width="30" height="32" xlink:href="заяв0_svg_Files/svg_bitmap3.png"/>
+      <text x="336" y="461" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">1.2 KYC-офицер верификация</text>
+   </a>
+</svg>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="186mm" xmlns="http://www.w3.org/2000/svg" height="192mm" version="1.1" viewBox="0 0 705 729" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <a target="_parent" xlink:href="заяв5.htm#1">
+      <rect x="15" y="16" fill="none" width="675" height="698" stroke="#d0d0e8" stroke-width="1"/>
+      <polygon fill="#ffffff" points="15,16 15,33 164,33 169,27 169,16 15,16" stroke="#d0d0e8" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="19" y="26" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">1.2 KYC-офицер верификация</text>
+   </a>
+   <polyline fill="none" points="59,441 434,441" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="420,445 434,441 420,437" stroke="#800000" stroke-width="1"/>
+   <text x="246" y="436" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">сообщает клиенту о причине отказа</text>
+   <a target="_parent" xlink:href="заяв30.htm#3">
+      <polyline fill="none" points="59,414 179,414" stroke="#800000" stroke-width="1"/>
+      <polyline fill="none" points="165,418 179,414 165,410" stroke="#800000" stroke-width="1"/>
+      <text x="113" y="411" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">отмечает отказ в </text>
+      <text x="113" y="421" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">верификации</text>
+   </a>
+   <polyline fill="none" points="59,354 434,354" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="420,358 434,354 420,350" stroke="#800000" stroke-width="1"/>
+   <text x="246" y="349" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">сообщает клиенту о неправильно загруженных данных</text>
+   <polyline fill="none" points="59,317 179,317" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="165,321 179,317 165,313" stroke="#800000" stroke-width="1"/>
+   <text x="116" y="313" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">отмечает частичную </text>
+   <text x="116" y="323" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">верификацию клиента</text>
+   <polyline fill="none" points="59,253 434,253" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="420,257 434,253 420,249" stroke="#800000" stroke-width="1"/>
+   <text x="246" y="249" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">сообщает клиенту о верификации</text>
+   <a target="_parent" xlink:href="заяв12.htm#3">
+      <polyline fill="none" points="59,223 304,223" stroke="#800000" stroke-width="1"/>
+      <polyline fill="none" points="290,227 304,223 290,219" stroke="#800000" stroke-width="1"/>
+      <text x="181" y="219" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">добавляет досье клиента</text>
+   </a>
+   <polyline fill="none" points="59,192 179,192" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="165,196 179,192 165,188" stroke="#800000" stroke-width="1"/>
+   <text x="112" y="187" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">отмечает, что клиент </text>
+   <text x="112" y="197" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">верифицирован</text>
+   <polyline fill="none" points="59,123 179,123" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="165,127 179,123 165,119" stroke="#800000" stroke-width="1"/>
+   <text x="114" y="116" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">проводит верификацию </text>
+   <text x="114" y="126" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">клиента</text>
+   <a target="_parent" xlink:href="заяв12.htm#1">
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ffffc0"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="59" cy="44" rx="8" ry="8" fill="url(#Gradient1)" stroke="#800000" stroke-width="1"/>
+      <line x1="59" x2="59" y1="52" y2="68" stroke="#800000" stroke-width="1"/>
+      <line x1="43" x2="75" y1="60" y2="60" stroke="#800000" stroke-width="1"/>
+      <line x1="43" x2="59" y1="84" y2="68" stroke="#800000" stroke-width="1"/>
+      <line x1="75" x2="59" y1="84" y2="68" stroke="#800000" stroke-width="1"/>
+      <text x="58" y="95" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">KYC-офицер</text>
+      <polyline fill="none" points="59,84 59,476" stroke="#800000" stroke-width="1" stroke-dasharray="3,3"/>
+   </a>
+   <a target="_parent" xlink:href="заяв30.htm#1">
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="147" y="36" fill="url(#Gradient2)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="179" y="63" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">SumSub</text>
+      <polyline fill="none" points="179,84 179,476" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+      <defs>
+         <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#800000"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="179" cy="150" rx="3" ry="3" fill="url(#Gradient3)" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+   </a>
+   <a target="_parent" xlink:href="заяв28.htm#1">
+      <defs>
+         <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="272" y="36" fill="url(#Gradient4)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="304" y="63" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">IBM Lotus</text>
+      <polyline fill="none" points="304,84 304,476" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+      <defs>
+         <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#800000"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="304" cy="150" rx="3" ry="3" fill="url(#Gradient5)" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+   </a>
+   <a target="_parent" xlink:href="заяв29.htm#1">
+      <defs>
+         <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="402" y="36" fill="url(#Gradient6)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="434" y="63" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">lk.f2c.dev</text>
+      <polyline fill="none" points="434,84 434,476" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+      <defs>
+         <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#800000"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="434" cy="150" rx="3" ry="3" fill="url(#Gradient7)" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+   </a>
+   <text x="75" y="162" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Если данные соответствуют требованиям FATF (и пр.)</text>
+   <polyline fill="none" points="40,281 563,281" stroke="#000000" stroke-width="1" stroke-dasharray="16,8"/>
+   <text x="46" y="293" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Если предоставлен неполный комплект документов</text>
+   <polyline fill="none" points="40,368 563,368" stroke="#000000" stroke-width="1" stroke-dasharray="16,8"/>
+   <text x="46" y="380" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Если не соответствует требованиям FATF</text>
+   <polyline fill="none" points="40,150 563,150 563,535 40,535 40,150" stroke="#800000" stroke-width="2"/>
+   <polygon fill="#ffffff" points="40,150 40,166 58,166 64,161 64,150 40,150" stroke="#800000" stroke-width="2" stroke-linejoin="miter"/>
+   <text x="44" y="160" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">alt</text>
+</svg>

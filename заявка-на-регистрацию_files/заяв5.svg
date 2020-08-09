@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="179mm" xmlns="http://www.w3.org/2000/svg" height="191mm" version="1.1" viewBox="0 0 677 725" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <a target="_parent" xlink:href="заяв8.htm#1">
+      <rect x="19" y="15" fill="none" width="643" height="695" stroke="#d0d0e8" stroke-width="1"/>
+      <polygon fill="#ffffff" points="19,15 19,32 168,32 174,27 174,15 19,15" stroke="#d0d0e8" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="23" y="25" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">2.1. Заявка_перевод_казначей</text>
+   </a>
+   <polyline fill="none" points="51,454 180,454" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="167,458 180,454 167,450" stroke="#800000" stroke-width="1"/>
+   <text x="115" y="449" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">уведомить менеджера о переводе</text>
+   <polyline fill="none" points="51,434 322,434" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="309,438 322,434 309,430" stroke="#800000" stroke-width="1"/>
+   <text x="187" y="429" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">перевести на кошелек клиента</text>
+   <a target="_parent" xlink:href="заяв13.htm#3">
+      <polyline fill="none" points="51,412 454,412" stroke="#800000" stroke-width="1"/>
+      <polyline fill="none" points="441,416 454,412 441,408" stroke="#800000" stroke-width="1"/>
+      <text x="253" y="407" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">обменять нужную сумму</text>
+   </a>
+   <polyline fill="none" points="51,389 180,389" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="167,393 180,389 167,385" stroke="#800000" stroke-width="1"/>
+   <text x="113" y="384" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">уведомить менеджера о </text>
+   <text x="113" y="394" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">задержке перевода</text>
+   <polyline fill="none" points="51,321 180,321" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="167,325 180,321 167,317" stroke="#800000" stroke-width="1"/>
+   <text x="115" y="316" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">уведомить менеджера о переводе</text>
+   <polyline fill="none" points="51,300 322,300" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="309,304 322,300 309,296" stroke="#800000" stroke-width="1"/>
+   <text x="186" y="295" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">перевести нужную сумму на кошелек клиента</text>
+   <polyline fill="none" points="51,241 180,241" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="167,245 180,241 167,237" stroke="#800000" stroke-width="1"/>
+   <text x="115" y="236" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">проверить имеющиеся заявки на вывод</text>
+   <polyline fill="none" points="51,199 180,199" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="167,203 180,199 167,195" stroke="#800000" stroke-width="1"/>
+   <text x="114" y="196" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">получить уведомление об </text>
+   <text x="114" y="206" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">одобренной заявке</text>
+   <polyline fill="none" points="51,116 180,116" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="167,120 180,116 167,112" stroke="#800000" stroke-width="1"/>
+   <text x="112" y="112" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">получить </text>
+   <text x="112" y="122" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">уведомление о </text>
+   <text x="112" y="132" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">новых заявках</text>
+   <a target="_parent" xlink:href="заяв13.htm#1">
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#ffffc0"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="51" cy="43" rx="8" ry="8" fill="url(#Gradient1)" stroke="#800000" stroke-width="1"/>
+      <line x1="51" x2="51" y1="51" y2="67" stroke="#800000" stroke-width="1"/>
+      <line x1="35" x2="67" y1="59" y2="59" stroke="#800000" stroke-width="1"/>
+      <line x1="35" x2="51" y1="83" y2="67" stroke="#800000" stroke-width="1"/>
+      <line x1="67" x2="51" y1="83" y2="67" stroke="#800000" stroke-width="1"/>
+      <text x="51" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Казначей</text>
+      <polyline fill="none" points="51,83 51,514" stroke="#800000" stroke-width="1" stroke-dasharray="3,3"/>
+   </a>
+   <a target="_parent" xlink:href="заяв28.htm#1">
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="148" y="35" fill="url(#Gradient2)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="180" y="62" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">IBM Lotus</text>
+      <polyline fill="none" points="180,83 180,514" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+      <defs>
+         <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d0d0e8"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="180" cy="137" rx="3" ry="3" fill="url(#Gradient3)" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+      <defs>
+         <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#800000"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="180" cy="256" rx="3" ry="3" fill="url(#Gradient4)" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+   </a>
+   <a target="_parent" xlink:href="заяв40.htm#1">
+      <defs>
+         <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="290" y="35" fill="url(#Gradient5)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="292" y="62" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">кошелек компании</text>
+      <polyline fill="none" points="322,83 322,514" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+      <defs>
+         <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#800000"/>
+         </linearGradient>
+      </defs>
+      <ellipse cx="322" cy="256" rx="3" ry="3" fill="url(#Gradient6)" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+   </a>
+   <a target="_parent" xlink:href="заяв34.htm#1">
+      <defs>
+         <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="422" y="35" fill="url(#Gradient7)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="454" y="62" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">Биржа</text>
+      <polyline fill="none" points="454,83 454,514" stroke="#ff8000" stroke-width="1" stroke-dasharray="3,3"/>
+   </a>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="0%" gradientUnits="objectBoundingBox">
+         <stop offset="0%" stop-color="#faf1d3"/>
+         <stop offset="100%" stop-color="#faf1d3"/>
+      </linearGradient>
+   </defs>
+   <rect x="39" y="137" fill="url(#Gradient8)" width="168" height="41" stroke="#d0d0e8" stroke-width="1"/>
+   <polygon fill="#faf1d3" points="39,137 39,153 58,153 63,148 63,137 39,137" stroke="#d0d0e8" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="51" y="148" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">ref</text>
+   <text x="45" y="161" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">2.2. Заявка_перевод_менеджер()</text>
+   <text x="68" y="268" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Condition</text>
+   <polyline fill="none" points="32,356 353,356" stroke="#000000" stroke-width="1" stroke-dasharray="16,8"/>
+   <text x="38" y="368" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Condition</text>
+   <polyline fill="none" points="32,256 353,256 353,474 32,474 32,256" stroke="#800000" stroke-width="2"/>
+   <polygon fill="#ffffff" points="32,256 32,271 51,271 56,266 56,256 32,256" stroke="#800000" stroke-width="2" stroke-linejoin="miter"/>
+   <text x="36" y="266" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">alt</text>
+</svg>
