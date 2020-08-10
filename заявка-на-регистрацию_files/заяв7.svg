@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="146mm" xmlns="http://www.w3.org/2000/svg" height="129mm" version="1.1" viewBox="0 0 554 488" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <path d="M143,212 L141,212 L141,178" fill="none" stroke="#800000" stroke-width="1"/>
+   <path d="M143,176 L147,176 L147,118" fill="none" stroke="#800000" stroke-width="1"/>
+   <text x="274" y="249" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">входящие </text>
+   <text x="274" y="259" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">суммы</text>
+   <text x="471" y="225" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">комиссии:</text>
+   <text x="471" y="235" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1% - ввод</text>
+   <text x="471" y="245" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">0.15% - обмен</text>
+   <text x="471" y="255" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">1.3 USDT за вывод</text>
+   <text x="361" y="324" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">-3.5% от </text>
+   <text x="361" y="334" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">переведенной суммы</text>
+   <text x="323" y="386" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">заявка на </text>
+   <text x="323" y="396" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">вывод</text>
+   <polyline fill="none" points="91,177 194,177" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="181,181 194,177 181,173" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="202,65 202,153" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="280,63 280,153" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="226,39 254,39" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="241,43 254,39 241,35" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="288,181 400,181" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="387,185 400,181 387,177" stroke="#800000" stroke-width="1"/>
+   <path d="M241,201 L241,255 A8,8 0 0,0 249,263 L355,263" fill="none" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="342,267 355,263 342,259" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="408,205 408,263" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="404,250 408,263 412,250" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="385,311 385,345" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="381,332 385,345 389,332" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="353,371 285,371" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="299,367 285,371 299,375" stroke="#800000" stroke-width="1"/>
+   <path d="M419,287 L498,287 A8,8 0 0,1 506,295 L506,337" fill="none" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="502,324 506,337 510,324" stroke="#800000" stroke-width="1"/>
+   <polyline fill="none" points="243,395 243,425" stroke="#800000" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="239,411 243,425 247,411" stroke="#800000" stroke-width="1"/>
+   <a target="_parent" xlink:href="заяв24.htm#1">
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="474" y="337" fill="url(#Gradient1)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="506" y="364" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">1С</text>
+   </a>
+   <a target="_parent" xlink:href="заяв28.htm#1">
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="221" y="347" fill="url(#Gradient2)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="253" y="374" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">IBM Lotus</text>
+   </a>
+   <a target="_parent" xlink:href="заяв29.htm#1">
+      <defs>
+         <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="353" y="345" fill="url(#Gradient3)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="385" y="372" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">lk.f2c.dev</text>
+   </a>
+   <a target="_parent" xlink:href="заяв34.htm#1">
+      <defs>
+         <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="400" y="157" fill="url(#Gradient4)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="432" y="184" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">Биржа</text>
+   </a>
+   <a target="_parent" xlink:href="заяв35.htm#1">
+      <defs>
+         <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="355" y="263" fill="url(#Gradient5)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="387" y="290" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">ОперДень</text>
+   </a>
+   <a target="_parent" xlink:href="заяв36.htm#1">
+      <defs>
+         <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="194" y="153" fill="url(#Gradient6)" width="94" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="241" y="180" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">Платежный Агент</text>
+   </a>
+   <a target="_parent" xlink:href="заяв33.htm#1">
+      <defs>
+         <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="15" y="155" fill="url(#Gradient7)" width="76" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="53" y="182" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">Банк Клиента</text>
+   </a>
+   <a target="_parent" xlink:href="заяв27.htm#1">
+      <defs>
+         <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="151" y="17" fill="url(#Gradient8)" width="75" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="188" y="44" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">IBAN клиента</text>
+   </a>
+   <a target="_parent" xlink:href="заяв26.htm#1">
+      <defs>
+         <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="254" y="15" fill="url(#Gradient9)" width="64" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="286" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">IBAN F2C</text>
+   </a>
+   <a target="_parent" xlink:href="заяв9.htm#1">
+      <image x="127" y="205" width="30" height="32" xlink:href="заяв7_svg_Files/svg_bitmap1.png"/>
+      <text x="142" y="251" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">2.2. Заявка_перевод_менеджер</text>
+   </a>
+   <a target="_parent" xlink:href="заяв8.htm#1">
+      <image x="131" y="96" width="30" height="32" xlink:href="заяв7_svg_Files/svg_bitmap2.png"/>
+      <text x="146" y="142" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial Unicode MS'" text-anchor="middle">2.1. Заявка_перевод_казначей</text>
+   </a>
+   <a target="_parent" xlink:href="заяв39.htm#1">
+      <defs>
+         <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#e9ca83"/>
+         </linearGradient>
+      </defs>
+      <rect x="197" y="425" fill="url(#Gradient10)" width="92" height="48" stroke="#ff8000" stroke-width="1"/>
+      <text x="243" y="452" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle" text-decoration="underline">кошелек клиента</text>
+   </a>
+</svg>
